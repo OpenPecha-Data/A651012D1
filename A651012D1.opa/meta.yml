@@ -1,0 +1,26 @@
+id: A651012D1
+title: 'The Garland of Utpala Flowers: A Prayer to the Masters of the Lineage of Zabtik
+  Drolchok'
+type: translation
+pechas:
+- I812AFE4F
+- I8A03434B
+- IE5CA1DDD
+- I00F0320A
+source_metadata:
+  languages:
+  - en
+  - es
+  - fr
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:33:47.408956
+  last_modified_at: 2023-01-04 12:33:47.408962
+  collections:
+  - Jamyang Khyentse Wangpo Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I812AFE4F/CC53: CB85
+  I8A03434B/2B10: CB85
+  IE5CA1DDD/20E4: CB85
+  I00F0320A/553A: CB85
